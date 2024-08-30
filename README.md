@@ -2,6 +2,20 @@
 
 Cosmic Theme Factorio based on [factorio.com](https://factorio.com/).
 
+## Showcase
+
+| ![first_screen](./screenshots/1_wallpaper.jpg)  | ![second_screen](./screenshots/2_vertical.jpg) |
+| ----------------------------------------------- | ---------------------------------------------- |
+| ![third_screen](./screenshots/3_horizontal.jpg) | ![fourth_screen](./screenshots/4_theming.jpg)  |
+
+## Wallpaper
+
+- [wall.alphacoders.com](https://initiate.alphacoders.com/download/images6/1161891/png)
+
+## Config
+
+- [Factorio.ron](./Factorio.ron)
+
 ## Appearance
 
 - Dark: true
@@ -17,17 +31,3 @@ Cosmic Theme Factorio based on [factorio.com](https://factorio.com/).
 - Experimental settings > Apply this theme to GNOME apps: true
 
 Other configuration should be visible, just a matter of taste and Factorio UI.
-
-## Config
-
-- [Factorio.ron](./Factorio.ron)
-
-## Wallpaper
-
-- [wall.alphacoders.com](https://initiate.alphacoders.com/download/images6/1161891/png)
-
-## Showcase
-
-| ![first_screen](./screenshots/1_wallpaper.jpg)  | ![second_screen](./screenshots/2_vertical.jpg) |
-| ----------------------------------------------- | ---------------------------------------------- |
-| ![third_screen](./screenshots/3_horizontal.jpg) | ![fourth_screen](./screenshots/4_theming.jpg)  |
