@@ -1,5 +1,7 @@
 # cosmic-themes-factorio
 
+![factorio-logo](https://cdn.factorio.com/assets/img/web/factorio-logo.png)
+
 Cosmic Theme Factorio based on [factorio.com](https://factorio.com/).
 
 ## Showcase
